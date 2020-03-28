@@ -14,6 +14,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Instalação
 Para gerenciamento de pacotes utilize o [npm](www.npmjs.com/).
+
 _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 
 ### Back-End e Front-End
