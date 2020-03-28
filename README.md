@@ -24,7 +24,7 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
   
 3. O projeto de **backend** estará executando no endereço http://localhost:3333, o **frontend** estará no endereço http://localhost:3000
 
-*Atenção:* Tenha certeza que nenhuma outra aplicação esteja sendo executada nas respectivas portas de cada projeto.
+**Atenção:** Tenha certeza que nenhuma outra aplicação esteja sendo executada nas respectivas portas de cada projeto.
 
 ### Mobile
 1. Dentro do diretório da aplicação, execute o comando: ``` npm install ```, para a instalação dos pacotes.
