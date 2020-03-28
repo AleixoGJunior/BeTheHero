@@ -15,9 +15,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Instalação
 Para gerenciamento de pacotes utilize o [npm](www.npmjs.com/)
 
-###Back-End
+### Back-End
 1. Execute o comando para a instalação dos pacotes, dentro do diretório do backend.
-``` npm install ```
-2. Após a instalação dos pacotes, execute o projeto.
-``` npm start ```
+  ``` npm install ```
+2. Após a instalação dos pacotes, execute o projeto. 
+  ``` npm start ```
 3. O projeto estará executando no endereço http://localhost:3333
