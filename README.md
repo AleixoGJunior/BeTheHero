@@ -29,7 +29,7 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 ### Mobile
 1. Dentro do diretório da aplicação, execute o comando: ``` npm install ```, para a instalação dos pacotes.
 
-2. Após a instalação dos pacotes, execute o projeto com o comando: ``` expo start ````
+2. Após a instalação dos pacotes, execute o projeto com o comando: ``` expo start ```
 
 3. Com seu celular em mãos, entre na loja de aplicativos e instale o aplicativo do Expo.
 
