@@ -35,4 +35,4 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 4. Abra o aplicativo do Expo no celular e leia o QR Code exibido no navegador.
 
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AleixoGJunior/BeTheHero/blob/master/LICENSE) para mais detalhes.
