@@ -13,7 +13,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * [Expo](https://expo.io/)
 
 ## Instalação
-Para gerenciamento de pacotes utilize o [npm](www.npmjs.com/)
+Para gerenciamento de pacotes utilize o [npm](www.npmjs.com/).
 _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 
 ### Back-End e Front-End
@@ -21,7 +21,7 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
   
 2. Após a instalação dos pacotes, execute o projeto com o comando: ``` npm start ```, para cada um dos projetos.
   
-3. O projeto de *backend* estará executando no endereço http://localhost:3333, o *frontend* estará no endereço http://localhost:3000
+3. O projeto de **backend** estará executando no endereço http://localhost:3333, o **frontend** estará no endereço http://localhost:3000
 
 *Atenção:* Tenha certeza que nenhuma outra aplicação esteja sendo executada nas respectivas portas de cada projeto.
 
