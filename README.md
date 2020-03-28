@@ -2,7 +2,7 @@
 Projeto desenvolvido durante a Semana Omnistack 11.0
 
 ## Projeto
-A ideia do projeto é ajudar ONGs a divulgar seus casos para que pessoas interessadas possam contribuir.
+A ideia do projeto é ajudar ONGs a divulgar seus casos para que pessoas interessadas possam contribuir financeiramente.
 
 ## Tecnologia
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
