@@ -27,13 +27,15 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 **Atenção:** Tenha certeza que nenhuma outra aplicação esteja sendo executada nas respectivas portas de cada projeto.
 
 ### Mobile
-1. Dentro do diretório da aplicação, execute o comando: ``` npm install ```, para a instalação dos pacotes.
+1. Dentro do diretório da aplicação, execute o comando: `npm install`, para a instalação dos pacotes.
 
-2. Após a instalação dos pacotes, execute o projeto com o comando: ``` expo start ```
+2. Altere o IP na api do axios para o seu ip local.
 
-3. Com seu celular em mãos, entre na loja de aplicativos e instale o aplicativo do Expo.
+3. Após a instalação dos pacotes e a alteração dos ips, execute o projeto com o comando: `expo start`
 
-4. Abra o aplicativo do Expo no celular e leia o QR Code exibido no navegador.
+4. Com seu celular em mãos, entre na loja de aplicativos e instale o aplicativo do Expo.
+
+5. Abra o aplicativo do Expo no celular e leia o QR Code exibido no navegador.
 
 ## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AleixoGJunior/BeTheHero/blob/master/LICENSE) para mais detalhes.
